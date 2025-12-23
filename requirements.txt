@@ -1,0 +1,8 @@
+opencv-python
+pytesseract
+pillow
+gradio
+numpy
+pandas
+pdf2image
+
